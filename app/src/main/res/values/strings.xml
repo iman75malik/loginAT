@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="password">************</string>
+    <string name="hp">6281234567890</string>
+    <string name="no_hp">No HP</string>
+    <string name="pass">Password</string>
+    <string name="ikhwan">Ikhwan</string>
+    <string name="akhwat">Akhwat</string>
+    <string name="menghubungi_cs_ikhwan">Menghubungi CS Ikhwan!</string>
+    <string name="menghubungi_cs_akhwat">Menghubungi CS Akhwat!</string>
+    <string name="kontak_cs">Kontak CS!</string>
+    <string name="menuju_halaman_faq">Menuju Halaman FAQ!</string>
+    <string name="lihat_faq">Lihat FAQ</string>
+    <string name="menuju_halaman_beranda">Menuju Halaman Beranda!</string>
+    <string name="masukan_nohp">Masukan No. HP</string>
+    <string name="pw">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="nohp_dan_password_harus_diisi">No. HP dan Password harus diisi!</string>
+    <string name="nohp_harus_diisi">No. HP harus diisi!</string>
+    <string name="password_harus_diisi">Password harus diisi!</string>
+</resources>
